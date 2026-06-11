@@ -1,0 +1,7 @@
+match_id,start_event_id,clip_id,human_label,positive_votes,agreement_votes,human_weight,human_source,candidate_id,current_clip_file,matched_reference_snapshot
+5544238,2231104943,candidate_160,1,7.0,7,12.0,new170,,,
+5544238,2231104943,40,1,7.0,7,12.0,old48,9.0,Clip40_009_5544238_2231104943_final1.png,Clip40_009_5544238_2231104943_final1.png
+5707002,2599191733,candidate_174,1,4.0,4,3.0,new170,,,
+5707002,2599191733,2,1,4.0,4,3.0,old48,20.0,Clip2_020_5707002_2599191733_final1.png,Clip2_020_5707002_2599191733_final1.png
+5707002,2599191762,candidate_077,1,6.0,6,8.0,new170,,,
+5707002,2599191762,6,0,0.0,7,12.0,old48,24.0,Clip6_024_5707002_2599191762_final0.png,Clip6_024_5707002_2599191762_final0.png

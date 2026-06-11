@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <style>
+      .bg { fill: #f7f7f2; }
+      .panel { fill: #ffffff; stroke: #1b1b1b; stroke-width: 2.5; rx: 26; ry: 26; }
+      .tree { fill: #f6fbff; stroke: #146b8c; stroke-width: 2.5; rx: 22; ry: 22; }
+      .feature { fill: #edf6ee; stroke: #2f6d3a; stroke-width: 2; rx: 16; ry: 16; }
+      .scorebox { fill: #fff7e5; stroke: #ad7a00; stroke-width: 2; rx: 18; ry: 18; }
+      .final { fill: #eef4ff; stroke: #284b8f; stroke-width: 2.5; rx: 24; ry: 24; }
+      .title { font: 700 42px Arial, sans-serif; fill: #111111; }
+      .subtitle { font: 600 26px Arial, sans-serif; fill: #333333; }
+      .label { font: 600 24px Arial, sans-serif; fill: #111111; }
+      .body { font: 500 22px Arial, sans-serif; fill: #222222; }
+      .small { font: 500 18px Arial, sans-serif; fill: #444444; }
+      .accent-blue { fill: #146b8c; font: 700 26px Arial, sans-serif; }
+      .accent-green { fill: #2f6d3a; font: 700 26px Arial, sans-serif; }
+      .accent-orange { fill: #ad7a00; font: 700 26px Arial, sans-serif; }
+      .white { fill: #ffffff; }
+      .arrow { stroke: #555555; stroke-width: 4; fill: none; marker-end: url(#arrowhead); }
+      .dashed { stroke-dasharray: 9 8; }
+    </style>
+    <marker id="arrowhead" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#555555"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1600" height="900"/>
+
+  <text class="title" x="80" y="90">XGBoost example in this project</text>
+  <text class="subtitle" x="80" y="130">A regain-candidate is described by features. Several small trees ask simple questions, and their scores are added.</text>
+
+  <rect class="panel" x="70" y="180" width="350" height="560"/>
+  <text class="label" x="110" y="235">Input candidate</text>
+  <text class="small" x="110" y="268">One regain situation from event + tracking data</text>
+
+  <rect class="feature" x="105" y="305" width="280" height="62"/>
+  <text class="body" x="130" y="345">ten_progression_goal_m = 22</text>
+
+  <rect class="feature" x="105" y="388" width="280" height="62"/>
+  <text class="body" x="122" y="428">fifteen_progression_goal_m = 31</text>
+
+  <rect class="feature" x="105" y="471" width="280" height="62"/>
+  <text class="body" x="130" y="511">long_end_progress_m = 78</text>
+
+  <rect class="feature" x="105" y="554" width="280" height="62"/>
+  <text class="body" x="142" y="594">first_action_type = pass</text>
+
+  <rect class="feature" x="105" y="637" width="280" height="62"/>
+  <text class="body" x="156" y="677">in_play_15s = 6.5</text>
+
+  <path class="arrow" d="M430 460 L520 460"/>
+
+  <rect class="tree" x="540" y="200" width="250" height="170"/>
+  <text class="accent-blue" x="620" y="245">Tree 1</text>
+  <text class="body" x="586" y="295">ten_progression_goal_m</text>
+  <text class="body" x="630" y="325">&gt; 18 ?</text>
+  <text class="small" x="590" y="355">Yes -> strong early progression</text>
+
+  <rect class="scorebox" x="830" y="235" width="170" height="95"/>
+  <text class="accent-orange" x="880" y="285">+0.8</text>
+  <text class="small" x="862" y="315">positive score</text>
+
+  <path class="arrow" d="M790 285 L830 285"/>
+
+  <rect class="tree" x="540" y="405" width="250" height="170"/>
+  <text class="accent-blue" x="620" y="450">Tree 2</text>
+  <text class="body" x="612" y="500">first_action_type</text>
+  <text class="body" x="633" y="530">= pass ?</text>
+  <text class="small" x="570" y="560">Yes -> fast release after regain</text>
+
+  <rect class="scorebox" x="830" y="440" width="170" height="95"/>
+  <text class="accent-orange" x="880" y="490">+0.6</text>
+  <text class="small" x="862" y="520">positive score</text>
+
+  <path class="arrow" d="M790 490 L830 490"/>
+
+  <rect class="tree" x="540" y="610" width="250" height="170"/>
+  <text class="accent-blue" x="620" y="655">Tree 3</text>
+  <text class="body" x="598" y="705">long_end_progress_m</text>
+  <text class="body" x="630" y="735">&gt; 70 ?</text>
+  <text class="small" x="593" y="765">Yes -> attack reaches high territory</text>
+
+  <rect class="scorebox" x="830" y="645" width="170" height="95"/>
+  <text class="accent-orange" x="880" y="695">+0.7</text>
+  <text class="small" x="862" y="725">positive score</text>
+
+  <path class="arrow" d="M790 695 L830 695"/>
+
+  <path class="arrow dashed" d="M1015 285 L1140 285"/>
+  <path class="arrow dashed" d="M1015 490 L1140 490"/>
+  <path class="arrow dashed" d="M1015 695 L1140 695"/>
+
+  <rect class="final" x="1145" y="240" width="345" height="440"/>
+  <text class="label" x="1230" y="290">Combined XGBoost score</text>
+
+  <line x1="1190" y1="350" x2="1445" y2="350" stroke="#aaaaaa" stroke-width="2"/>
+  <text class="body" x="1220" y="335">Tree 1 score</text>
+  <text class="accent-orange" x="1400" y="335">+0.8</text>
+
+  <text class="body" x="1220" y="395">Tree 2 score</text>
+  <text class="accent-orange" x="1400" y="395">+0.6</text>
+
+  <text class="body" x="1220" y="455">Tree 3 score</text>
+  <text class="accent-orange" x="1400" y="455">+0.7</text>
+
+  <line x1="1190" y1="480" x2="1445" y2="480" stroke="#aaaaaa" stroke-width="2"/>
+  <text class="body" x="1220" y="530">Total score</text>
+  <text class="accent-blue" x="1388" y="530">2.1</text>
+
+  <text class="body" x="1220" y="585">After threshold / sigmoid</text>
+  <text class="accent-green" x="1220" y="635">Predicted label: 1</text>
+  <text class="small" x="1220" y="670">Interpretation: likely counterattack</text>
+
+  <text class="small" x="82" y="830">Presentation note: In the real model there are many more trees. This figure only illustrates the idea.</text>
+</svg>

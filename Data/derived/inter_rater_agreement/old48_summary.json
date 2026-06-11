@@ -1,0 +1,27 @@
+{
+  "dataset": "old48_validation_set",
+  "n_items": 48,
+  "n_raters": 7,
+  "rater_names": [
+    "Nicolai",
+    "Christoffer",
+    "Mikkel",
+    "Son",
+    "Rida",
+    "Malik",
+    "Christian"
+  ],
+  "positive_majority_count": 25,
+  "negative_majority_count": 23,
+  "unanimous_count": 29,
+  "unanimous_share": 0.6041666666666666,
+  "mean_agreement_share": 0.8988095238095237,
+  "mean_pairwise_agreement": 0.8373015873015873,
+  "fleiss_kappa": 0.6743146920103551,
+  "agreement_vote_distribution": {
+    "4": 5,
+    "5": 5,
+    "6": 9,
+    "7": 29
+  }
+}

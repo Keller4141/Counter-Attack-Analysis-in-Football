@@ -1,0 +1,2 @@
+profile,attempts,shot_rate_%,shot_box_rate_%,goals_total,goal_rate_%,box_entry_rate_%,final_third_entry_rate_%,median_duration_s,median_in_play_duration_s,median_progression_x,median_passes,median_progression_goal_m,median_start_goal_distance_m,median_required_speed_mps,median_avg_progress_speed_mps,median_speed_ratio
+balanced_v2_scaled_tracking_coords,746,22.39,17.29,19,2.55,56.84,81.37,7.75,7.37,39.43,2.0,38.38,63.0,3.47,4.57,1.36

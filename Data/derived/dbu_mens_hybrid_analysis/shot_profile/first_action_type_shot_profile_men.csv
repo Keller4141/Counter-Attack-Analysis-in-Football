@@ -1,0 +1,9 @@
+first_action_type,n,shot_count,shot_rate,denmark_n,denmark_shot_count
+pass,201,30,0.14925373134328357,9,0
+duel,68,17,0.25,2,1
+touch,33,3,0.09090909090909091,1,1
+none,28,9,0.32142857142857145,0,0
+interception,5,2,0.4,0,0
+clearance,5,1,0.2,0,0
+shot,2,2,1.0,0,0
+free_kick,2,0,0.0,0,0

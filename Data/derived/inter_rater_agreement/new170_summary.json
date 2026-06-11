@@ -1,0 +1,28 @@
+{
+  "dataset": "new170_annotation_set",
+  "n_items": 170,
+  "n_raters": 7,
+  "rater_names": [
+    "Nicolai",
+    "Christoffer",
+    "Mikkel",
+    "Son",
+    "Rida",
+    "Malik",
+    "Christian"
+  ],
+  "positive_majority_count": 56,
+  "negative_majority_count": 114,
+  "unanimous_count": 131,
+  "unanimous_share": 0.7705882352941177,
+  "mean_agreement_share": 0.9453781512605043,
+  "mean_pairwise_agreement": 0.907563025210084,
+  "fleiss_kappa": 0.7899476554050368,
+  "agreement_vote_distribution": {
+    "4": 4,
+    "5": 18,
+    "6": 17,
+    "7": 131
+  },
+  "excluded_error_clips": 10
+}

@@ -1,0 +1,1101 @@
+[candidate_001]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=26.161
+start_local_ts=26.161
+candidate_end_ts=36.78
+candidate_end_local_ts=36.78
+next_on_ball_ts=38.47
+next_on_ball_local_ts=38.47
+visual_end_ts=38.47
+visual_end_local_ts=38.47
+times=[26.161, 29.23825, 32.3155, 35.39275, 38.47]
+
+[candidate_002]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=44.381
+start_local_ts=44.381
+candidate_end_ts=55.3
+candidate_end_local_ts=55.3
+next_on_ball_ts=130.772
+next_on_ball_local_ts=130.772
+visual_end_ts=58.3
+visual_end_local_ts=58.3
+times=[44.381, 47.860749999999996, 51.3405, 54.82025, 58.3]
+
+[candidate_003]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=535.229
+start_local_ts=535.229
+candidate_end_ts=535.229
+candidate_end_local_ts=535.229
+next_on_ball_ts=536.72
+next_on_ball_local_ts=536.72
+visual_end_ts=536.72
+visual_end_local_ts=536.72
+times=[535.229, 535.60175, 535.9745, 536.34725, 536.72]
+
+[candidate_004]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=620.017
+start_local_ts=620.017
+candidate_end_ts=624.961
+candidate_end_local_ts=624.961
+next_on_ball_ts=627.369
+next_on_ball_local_ts=627.369
+visual_end_ts=627.369
+visual_end_local_ts=627.369
+times=[620.017, 621.855, 623.693, 625.5310000000001, 627.369]
+
+[candidate_005]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=765.626
+start_local_ts=765.626
+candidate_end_ts=765.626
+candidate_end_local_ts=765.626
+next_on_ball_ts=769.1610000000001
+next_on_ball_local_ts=769.1610000000001
+visual_end_ts=768.626
+visual_end_local_ts=768.626
+times=[765.626, 766.376, 767.126, 767.876, 768.626]
+
+[candidate_006]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=925.893
+start_local_ts=925.893
+candidate_end_ts=926.602
+candidate_end_local_ts=926.602
+next_on_ball_ts=929.87
+next_on_ball_local_ts=929.87
+visual_end_ts=929.602
+visual_end_local_ts=929.602
+times=[925.893, 926.82025, 927.7475, 928.67475, 929.602]
+
+[candidate_007]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=946.635
+start_local_ts=946.635
+candidate_end_ts=971.063
+candidate_end_local_ts=971.063
+next_on_ball_ts=996.797
+next_on_ball_local_ts=996.797
+visual_end_ts=974.063
+visual_end_local_ts=974.063
+times=[946.635, 953.492, 960.3489999999999, 967.206, 974.063]
+
+[candidate_008]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=1149.743
+start_local_ts=1149.743
+candidate_end_ts=1151.75
+candidate_end_local_ts=1151.75
+next_on_ball_ts=1154.264
+next_on_ball_local_ts=1154.264
+visual_end_ts=1154.264
+visual_end_local_ts=1154.264
+times=[1149.743, 1150.8732499999999, 1152.0034999999998, 1153.13375, 1154.264]
+
+[candidate_009]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=1172.134
+start_local_ts=1172.134
+candidate_end_ts=1177.071
+candidate_end_local_ts=1177.071
+next_on_ball_ts=1178.398
+next_on_ball_local_ts=1178.398
+visual_end_ts=1178.398
+visual_end_local_ts=1178.398
+times=[1172.134, 1173.7, 1175.266, 1176.8319999999999, 1178.398]
+
+[candidate_010]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=2390.797
+start_local_ts=2390.797
+candidate_end_ts=2392.804
+candidate_end_local_ts=2392.804
+next_on_ball_ts=2394.684
+next_on_ball_local_ts=2394.684
+visual_end_ts=2394.684
+visual_end_local_ts=2394.684
+times=[2390.797, 2391.76875, 2392.7405, 2393.71225, 2394.684]
+
+[candidate_011]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=2486.497
+start_local_ts=2486.497
+candidate_end_ts=2494.247
+candidate_end_local_ts=2494.247
+next_on_ball_ts=2500.302
+next_on_ball_local_ts=2500.302
+visual_end_ts=2497.247
+visual_end_local_ts=2497.247
+times=[2486.497, 2489.1845, 2491.872, 2494.5595, 2497.247]
+
+[candidate_012]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1H
+half_id=1
+start_ts=2558.587
+start_local_ts=2558.587
+candidate_end_ts=2558.587
+candidate_end_local_ts=2558.587
+next_on_ball_ts=2564.244
+next_on_ball_local_ts=2564.244
+visual_end_ts=2561.587
+visual_end_local_ts=2561.587
+times=[2558.587, 2559.337, 2560.087, 2560.837, 2561.587]
+
+[candidate_013]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=3220.542
+start_local_ts=520.5419999999999
+candidate_end_ts=3226.02
+candidate_end_local_ts=526.02
+next_on_ball_ts=3228.136
+next_on_ball_local_ts=528.136
+visual_end_ts=3228.136
+visual_end_local_ts=528.136
+times=[520.5419999999999, 522.4404999999999, 524.3389999999999, 526.2375, 528.136]
+
+[candidate_014]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=3247.282
+start_local_ts=547.2820000000002
+candidate_end_ts=3254.266
+candidate_end_local_ts=554.2660000000001
+next_on_ball_ts=3256.362
+next_on_ball_local_ts=556.3620000000001
+visual_end_ts=3256.362
+visual_end_local_ts=556.3620000000001
+times=[547.2820000000002, 549.5520000000001, 551.8220000000001, 554.0920000000001, 556.3620000000001]
+
+[candidate_015]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=3515.026
+start_local_ts=815.0259999999998
+candidate_end_ts=3530.706
+candidate_end_local_ts=830.7060000000001
+next_on_ball_ts=3531.786
+next_on_ball_local_ts=831.7860000000001
+visual_end_ts=3531.786
+visual_end_local_ts=831.7860000000001
+times=[815.0259999999998, 819.2159999999999, 823.406, 827.596, 831.7860000000001]
+
+[candidate_016]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=3580.958
+start_local_ts=880.9580000000001
+candidate_end_ts=3586.132
+candidate_end_local_ts=886.1320000000001
+next_on_ball_ts=3586.789
+next_on_ball_local_ts=886.7890000000002
+visual_end_ts=3586.789
+visual_end_local_ts=886.7890000000002
+times=[880.9580000000001, 882.4157500000001, 883.8735000000001, 885.3312500000002, 886.7890000000002]
+
+[candidate_017]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=4047.253
+start_local_ts=1347.2530000000002
+candidate_end_ts=4053.441
+candidate_end_local_ts=1353.4409999999998
+next_on_ball_ts=4058.731
+next_on_ball_local_ts=1358.7310000000002
+visual_end_ts=4056.441
+visual_end_local_ts=1356.4409999999998
+times=[1347.2530000000002, 1349.5500000000002, 1351.847, 1354.1439999999998, 1356.4409999999998]
+
+[candidate_018]
+match_id=5544238
+label=Spain - Germany
+team_name=Spain
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=4345.146
+start_local_ts=1645.1459999999997
+candidate_end_ts=4345.146
+candidate_end_local_ts=1645.1459999999997
+next_on_ball_ts=4346.37
+next_on_ball_local_ts=1646.37
+visual_end_ts=4346.37
+visual_end_local_ts=1646.37
+times=[1645.1459999999997, 1645.4519999999998, 1645.7579999999998, 1646.0639999999999, 1646.37]
+
+[candidate_019]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2H
+half_id=2
+start_ts=5182.968
+start_local_ts=2482.968
+candidate_end_ts=5191.486
+candidate_end_local_ts=2491.486
+next_on_ball_ts=5192.719
+next_on_ball_local_ts=2492.719
+visual_end_ts=5192.719
+visual_end_local_ts=2492.719
+times=[2482.968, 2485.40575, 2487.8435, 2490.28125, 2492.719]
+
+[candidate_020]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=1E
+half_id=3
+start_ts=5461.935
+start_local_ts=61.9350000000004
+candidate_end_ts=5467.224
+candidate_end_local_ts=67.22400000000016
+next_on_ball_ts=5470.606
+next_on_ball_local_ts=70.60599999999977
+visual_end_ts=5470.224
+visual_end_local_ts=70.22400000000016
+times=[61.9350000000004, 64.00725000000034, 66.07950000000028, 68.15175000000022, 70.22400000000016]
+
+[candidate_022]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2E
+half_id=4
+start_ts=6473.848
+start_local_ts=173.84799999999996
+candidate_end_ts=6487.636
+candidate_end_local_ts=187.63600000000042
+next_on_ball_ts=6487.997
+next_on_ball_local_ts=187.9970000000003
+visual_end_ts=6487.997
+visual_end_local_ts=187.9970000000003
+times=[173.84799999999996, 177.38525000000004, 180.92250000000013, 184.4597500000002, 187.9970000000003]
+
+[candidate_023]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2E
+half_id=4
+start_ts=6688.001
+start_local_ts=388.0010000000002
+candidate_end_ts=6692.429
+candidate_end_local_ts=392.4290000000001
+next_on_ball_ts=6693.84
+next_on_ball_local_ts=393.84000000000015
+visual_end_ts=6693.84
+visual_end_local_ts=393.84000000000015
+times=[388.0010000000002, 389.4607500000002, 390.9205000000002, 392.38025000000016, 393.84000000000015]
+
+[candidate_024]
+match_id=5544238
+label=Spain - Germany
+team_name=Germany
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/H_EURO2024/2036205_Spain_Germany
+match_period=2E
+half_id=4
+start_ts=6890.276
+start_local_ts=590.2759999999998
+candidate_end_ts=6896.386
+candidate_end_local_ts=596.3860000000004
+next_on_ball_ts=6899.118
+next_on_ball_local_ts=599.1180000000004
+visual_end_ts=6899.118
+visual_end_local_ts=599.1180000000004
+times=[590.2759999999998, 592.4865, 594.6970000000001, 596.9075000000003, 599.1180000000004]
+
+[candidate_027]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=9.579
+start_local_ts=9.579
+candidate_end_ts=15.22
+candidate_end_local_ts=15.22
+next_on_ball_ts=15.905
+next_on_ball_local_ts=15.905
+visual_end_ts=15.905
+visual_end_local_ts=15.905
+times=[9.579, 11.1605, 12.742, 14.3235, 15.905]
+
+[candidate_028]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=117.695
+start_local_ts=117.695
+candidate_end_ts=121.429
+candidate_end_local_ts=121.429
+next_on_ball_ts=122.96
+next_on_ball_local_ts=122.96
+visual_end_ts=122.96
+visual_end_local_ts=122.96
+times=[117.695, 119.01124999999999, 120.32749999999999, 121.64375, 122.96]
+
+[candidate_029]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=184.569
+start_local_ts=184.569
+candidate_end_ts=197.481
+candidate_end_local_ts=197.481
+next_on_ball_ts=197.627
+next_on_ball_local_ts=197.627
+visual_end_ts=197.627
+visual_end_local_ts=197.627
+times=[184.569, 187.8335, 191.098, 194.3625, 197.627]
+
+[candidate_030]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=197.627
+start_local_ts=197.627
+candidate_end_ts=202.191
+candidate_end_local_ts=202.191
+next_on_ball_ts=202.36599999999999
+next_on_ball_local_ts=202.36599999999999
+visual_end_ts=202.36599999999999
+visual_end_local_ts=202.36599999999999
+times=[197.627, 198.81175000000002, 199.9965, 201.18124999999998, 202.36599999999999]
+
+[candidate_031]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=212.811
+start_local_ts=212.811
+candidate_end_ts=220.147
+candidate_end_local_ts=220.147
+next_on_ball_ts=221.101
+next_on_ball_local_ts=221.101
+visual_end_ts=221.101
+visual_end_local_ts=221.101
+times=[212.811, 214.8835, 216.95600000000002, 219.0285, 221.101]
+
+[candidate_032]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=226.59
+start_local_ts=226.59
+candidate_end_ts=232.297
+candidate_end_local_ts=232.297
+next_on_ball_ts=238.917
+next_on_ball_local_ts=238.917
+visual_end_ts=235.297
+visual_end_local_ts=235.297
+times=[226.59, 228.76675, 230.9435, 233.12025, 235.297]
+
+[candidate_033]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=370.094
+start_local_ts=370.094
+candidate_end_ts=375.504
+candidate_end_local_ts=375.504
+next_on_ball_ts=375.849
+next_on_ball_local_ts=375.849
+visual_end_ts=375.849
+visual_end_local_ts=375.849
+times=[370.094, 371.53274999999996, 372.9715, 374.41025, 375.849]
+
+[candidate_034]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=403.62
+start_local_ts=403.62
+candidate_end_ts=408.297
+candidate_end_local_ts=408.297
+next_on_ball_ts=409.832
+next_on_ball_local_ts=409.832
+visual_end_ts=409.832
+visual_end_local_ts=409.832
+times=[403.62, 405.173, 406.726, 408.279, 409.832]
+
+[candidate_035]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=651.499
+start_local_ts=651.499
+candidate_end_ts=658.695
+candidate_end_local_ts=658.695
+next_on_ball_ts=661.427
+next_on_ball_local_ts=661.427
+visual_end_ts=661.427
+visual_end_local_ts=661.427
+times=[651.499, 653.981, 656.463, 658.945, 661.427]
+
+[candidate_036]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=843.019
+start_local_ts=843.019
+candidate_end_ts=862.491
+candidate_end_local_ts=862.491
+next_on_ball_ts=862.763
+next_on_ball_local_ts=862.763
+visual_end_ts=862.763
+visual_end_local_ts=862.763
+times=[843.019, 847.955, 852.8910000000001, 857.827, 862.763]
+
+[candidate_037]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=864.31
+start_local_ts=864.31
+candidate_end_ts=885.203
+candidate_end_local_ts=885.203
+next_on_ball_ts=885.295
+next_on_ball_local_ts=885.295
+visual_end_ts=885.295
+visual_end_local_ts=885.295
+times=[864.31, 869.55625, 874.8025, 880.0487499999999, 885.295]
+
+[candidate_038]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=948.575
+start_local_ts=948.575
+candidate_end_ts=948.575
+candidate_end_local_ts=948.575
+next_on_ball_ts=949.592
+next_on_ball_local_ts=949.592
+visual_end_ts=949.592
+visual_end_local_ts=949.592
+times=[948.575, 948.82925, 949.0835, 949.33775, 949.592]
+
+[candidate_039]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=966.217
+start_local_ts=966.217
+candidate_end_ts=979.866
+candidate_end_local_ts=979.866
+next_on_ball_ts=981.601
+next_on_ball_local_ts=981.601
+visual_end_ts=981.601
+visual_end_local_ts=981.601
+times=[966.217, 970.063, 973.909, 977.755, 981.601]
+
+[candidate_040]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=1108.379
+start_local_ts=1108.379
+candidate_end_ts=1115.299
+candidate_end_local_ts=1115.299
+next_on_ball_ts=1116.783
+next_on_ball_local_ts=1116.783
+visual_end_ts=1116.783
+visual_end_local_ts=1116.783
+times=[1108.379, 1110.48, 1112.581, 1114.6819999999998, 1116.783]
+
+[candidate_041]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=1388.247
+start_local_ts=1388.247
+candidate_end_ts=1394.86
+candidate_end_local_ts=1394.86
+next_on_ball_ts=1395.851
+next_on_ball_local_ts=1395.851
+visual_end_ts=1395.851
+visual_end_local_ts=1395.851
+times=[1388.247, 1390.1480000000001, 1392.049, 1393.95, 1395.851]
+
+[candidate_042]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=2143.448
+start_local_ts=2143.448
+candidate_end_ts=2145.66
+candidate_end_local_ts=2145.66
+next_on_ball_ts=2149.429
+next_on_ball_local_ts=2149.429
+visual_end_ts=2148.66
+visual_end_local_ts=2148.66
+times=[2143.448, 2144.7509999999997, 2146.054, 2147.357, 2148.66]
+
+[candidate_043]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=1H
+half_id=1
+start_ts=2548.202
+start_local_ts=2548.202
+candidate_end_ts=2548.202
+candidate_end_local_ts=2548.202
+next_on_ball_ts=2550.073
+next_on_ball_local_ts=2550.073
+visual_end_ts=2550.073
+visual_end_local_ts=2550.073
+times=[2548.202, 2548.66975, 2549.1375, 2549.60525, 2550.073]
+
+[candidate_045]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=2H
+half_id=2
+start_ts=2841.495
+start_local_ts=141.4949999999999
+candidate_end_ts=2841.495
+candidate_end_local_ts=141.4949999999999
+next_on_ball_ts=2843.833
+next_on_ball_local_ts=143.83300000000008
+visual_end_ts=2843.833
+visual_end_local_ts=143.83300000000008
+times=[141.4949999999999, 142.07949999999994, 142.664, 143.24850000000004, 143.83300000000008]
+
+[candidate_047]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=2H
+half_id=2
+start_ts=3473.837
+start_local_ts=773.837
+candidate_end_ts=3480.013
+candidate_end_local_ts=780.0129999999999
+next_on_ball_ts=3480.237
+next_on_ball_local_ts=780.2370000000001
+visual_end_ts=3480.237
+visual_end_local_ts=780.2370000000001
+times=[773.837, 775.437, 777.037, 778.6370000000001, 780.2370000000001]
+
+[candidate_048]
+match_id=5707002
+label=Poland - Sweden
+team_name=Poland
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=2H
+half_id=2
+start_ts=3707.911
+start_local_ts=1007.9110000000001
+candidate_end_ts=3711.107
+candidate_end_local_ts=1011.107
+next_on_ball_ts=3712.156
+next_on_ball_local_ts=1012.156
+visual_end_ts=3712.156
+visual_end_local_ts=1012.156
+times=[1007.9110000000001, 1008.97225, 1010.0335, 1011.09475, 1012.156]
+
+[candidate_049]
+match_id=5707002
+label=Poland - Sweden
+team_name=Sweden
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/POL-SWE_EURO2025
+match_period=2H
+half_id=2
+start_ts=3885.538
+start_local_ts=1185.538
+candidate_end_ts=3890.109
+candidate_end_local_ts=1190.109
+next_on_ball_ts=3891.082
+next_on_ball_local_ts=1191.0819999999999
+visual_end_ts=3891.082
+visual_end_local_ts=1191.0819999999999
+times=[1185.538, 1186.924, 1188.31, 1189.696, 1191.0819999999999]
+
+[candidate_052]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=1H
+half_id=1
+start_ts=452.883
+start_local_ts=452.883
+candidate_end_ts=454.289
+candidate_end_local_ts=454.289
+next_on_ball_ts=455.791
+next_on_ball_local_ts=455.791
+visual_end_ts=455.791
+visual_end_local_ts=455.791
+times=[452.883, 453.61, 454.337, 455.06399999999996, 455.791]
+
+[candidate_053]
+match_id=5723756
+label=Norway - Italy
+team_name=Norway
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=1H
+half_id=1
+start_ts=573.535
+start_local_ts=573.535
+candidate_end_ts=578.537
+candidate_end_local_ts=578.537
+next_on_ball_ts=580.857
+next_on_ball_local_ts=580.857
+visual_end_ts=580.857
+visual_end_local_ts=580.857
+times=[573.535, 575.3655, 577.1959999999999, 579.0264999999999, 580.857]
+
+[candidate_054]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=1H
+half_id=1
+start_ts=920.602
+start_local_ts=920.602
+candidate_end_ts=926.416
+candidate_end_local_ts=926.416
+next_on_ball_ts=927.993
+next_on_ball_local_ts=927.993
+visual_end_ts=927.993
+visual_end_local_ts=927.993
+times=[920.602, 922.44975, 924.2975, 926.14525, 927.993]
+
+[candidate_055]
+match_id=5723756
+label=Norway - Italy
+team_name=Norway
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=1H
+half_id=1
+start_ts=971.248
+start_local_ts=971.248
+candidate_end_ts=971.248
+candidate_end_local_ts=971.248
+next_on_ball_ts=971.503
+next_on_ball_local_ts=971.503
+visual_end_ts=971.503
+visual_end_local_ts=971.503
+times=[971.248, 971.3117500000001, 971.3755000000001, 971.43925, 971.503]
+
+[candidate_056]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=1H
+half_id=1
+start_ts=1864.977
+start_local_ts=1864.977
+candidate_end_ts=1868.349
+candidate_end_local_ts=1868.349
+next_on_ball_ts=1869.272
+next_on_ball_local_ts=1869.272
+visual_end_ts=1869.272
+visual_end_local_ts=1869.272
+times=[1864.977, 1866.05075, 1867.1245, 1868.19825, 1869.272]
+
+[candidate_057]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=2830.975
+start_local_ts=130.9749999999999
+candidate_end_ts=2836.388
+candidate_end_local_ts=136.38799999999992
+next_on_ball_ts=2836.433
+next_on_ball_local_ts=136.433
+visual_end_ts=2836.433
+visual_end_local_ts=136.433
+times=[130.9749999999999, 132.33949999999993, 133.70399999999995, 135.06849999999997, 136.433]
+
+[candidate_058]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=2865.123
+start_local_ts=165.12300000000005
+candidate_end_ts=2865.123
+candidate_end_local_ts=165.12300000000005
+next_on_ball_ts=2873.384
+next_on_ball_local_ts=173.38400000000001
+visual_end_ts=2868.123
+visual_end_local_ts=168.12300000000005
+times=[165.12300000000005, 165.87300000000005, 166.62300000000005, 167.37300000000005, 168.12300000000005]
+
+[candidate_059]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=2928.013
+start_local_ts=228.01299999999992
+candidate_end_ts=2931.986
+candidate_end_local_ts=231.98599999999988
+next_on_ball_ts=2933.753
+next_on_ball_local_ts=233.75300000000016
+visual_end_ts=2933.753
+visual_end_local_ts=233.75300000000016
+times=[228.01299999999992, 229.44799999999998, 230.88300000000004, 232.3180000000001, 233.75300000000016]
+
+[candidate_060]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=3142.919
+start_local_ts=442.91899999999987
+candidate_end_ts=3148.782
+candidate_end_local_ts=448.78200000000015
+next_on_ball_ts=3149.563
+next_on_ball_local_ts=449.5630000000001
+visual_end_ts=3149.563
+visual_end_local_ts=449.5630000000001
+times=[442.91899999999987, 444.5799999999999, 446.241, 447.90200000000004, 449.5630000000001]
+
+[candidate_061]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=both
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=3682.908
+start_local_ts=982.9079999999999
+candidate_end_ts=3684.484
+candidate_end_local_ts=984.4839999999999
+next_on_ball_ts=3685.824
+next_on_ball_local_ts=985.8240000000001
+visual_end_ts=3685.824
+visual_end_local_ts=985.8240000000001
+times=[982.9079999999999, 983.637, 984.366, 985.095, 985.8240000000001]
+
+[candidate_062]
+match_id=5723756
+label=Norway - Italy
+team_name=Norway
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=3714.168
+start_local_ts=1014.1680000000001
+candidate_end_ts=3714.168
+candidate_end_local_ts=1014.1680000000001
+next_on_ball_ts=3716.417
+next_on_ball_local_ts=1016.4169999999999
+visual_end_ts=3716.417
+visual_end_local_ts=1016.4169999999999
+times=[1014.1680000000001, 1014.7302500000001, 1015.2925, 1015.85475, 1016.4169999999999]
+
+[candidate_063]
+match_id=5723756
+label=Norway - Italy
+team_name=Italy
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=4009.389
+start_local_ts=1309.3890000000001
+candidate_end_ts=4014.2
+candidate_end_local_ts=1314.1999999999998
+next_on_ball_ts=4014.974
+next_on_ball_local_ts=1314.9740000000002
+visual_end_ts=4014.974
+visual_end_local_ts=1314.9740000000002
+times=[1309.3890000000001, 1310.7852500000001, 1312.1815000000001, 1313.5777500000002, 1314.9740000000002]
+
+[candidate_064]
+match_id=5723756
+label=Norway - Italy
+team_name=Norway
+current_final_prediction=1
+pool_source=current_final_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=4147.688
+start_local_ts=1447.688
+candidate_end_ts=4147.688
+candidate_end_local_ts=1447.688
+next_on_ball_ts=4148.431
+next_on_ball_local_ts=1448.4309999999996
+visual_end_ts=4148.431
+visual_end_local_ts=1448.4309999999996
+times=[1447.688, 1447.87375, 1448.0594999999998, 1448.2452499999997, 1448.4309999999996]
+
+[candidate_065]
+match_id=5723756
+label=Norway - Italy
+team_name=Norway
+current_final_prediction=0
+pool_source=legacy_broad_only
+tracking_folder=/Users/keller/Desktop/Data_DBU/Data/Q_EURO2025/NOR-ITA_EURO2025
+match_period=2H
+half_id=2
+start_ts=5226.512
+start_local_ts=2526.5119999999997
+candidate_end_ts=5231.96
+candidate_end_local_ts=2531.96
+next_on_ball_ts=5232.218
+next_on_ball_local_ts=2532.218
+visual_end_ts=5232.218
+visual_end_local_ts=2532.218
+times=[2526.5119999999997, 2527.9384999999997, 2529.365, 2530.7915, 2532.218]

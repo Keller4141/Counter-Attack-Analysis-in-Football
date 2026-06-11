@@ -1,0 +1,6 @@
+feature,label,direction_expected_for_success,threshold,threshold_rule,cases_meeting_threshold,shots_meeting_threshold,shot_rate_meeting_threshold,cases_not_meeting_threshold,shots_not_meeting_threshold,shot_rate_not_meeting_threshold,shot_rate_ratio,denmark_cases_meeting_threshold,denmark_total_cases,denmark_share_meeting_threshold,denmark_shots_meeting_threshold
+long_end_progress_m,End progression (m),higher,90.61,long_end_progress_m >= 90.610,53,14,0.2641509433962264,88,13,0.14772727272727273,1.788098693759071,7,15,0.4666666666666667,2
+long_progression_goal_m,Progression toward goal (m),higher,37.15314900921332,long_progression_goal_m >= 37.153,66,14,0.21212121212121213,75,13,0.17333333333333334,1.2237762237762237,7,15,0.4666666666666667,2
+long_avg_progress_speed_mps,Average progression speed (m/s),higher,4.134574799704326,long_avg_progress_speed_mps >= 4.135,84,14,0.16666666666666666,57,13,0.22807017543859648,0.7307692307692307,5,15,0.3333333333333333,0
+long_duration_s,Duration (s),higher,9.595000000000027,long_duration_s >= 9.595,54,14,0.25925925925925924,87,13,0.14942528735632185,1.7350427350427349,5,15,0.3333333333333333,2
+long_directness_goal,Directness to goal,higher,0.8841080546655585,long_directness_goal >= 0.884,81,14,0.1728395061728395,60,13,0.21666666666666667,0.7977207977207976,6,15,0.4,1

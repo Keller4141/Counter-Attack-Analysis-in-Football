@@ -1,0 +1,3 @@
+benchmark,matches,hybrid_counterattacks,counterattacks_per_match,shot_rate,box_shot_proxy_rate,box_entry_proxy_rate,final_third_entry_proxy_rate,avg_progression_goal_m,avg_progression_speed_mps,avg_duration_s
+Denmark group stage,3,10,3.3333333333333335,0.1,0.1,0.4,0.7,35.307834071792534,5.096461487138941,7.199200000000022
+Denmark opponents group stage,3,9,3.0,0.0,0.0,0.2222222222222222,0.7777777777777778,37.263265312506746,5.085553143798319,7.662000000000085

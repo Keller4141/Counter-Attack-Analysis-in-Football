@@ -1,0 +1,10 @@
+.venv/
+.matplotlib_cache/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+Data/events.csv
+Data/H_EURO2024/
+Data/Q_EURO2025/
+Data/U21_EURO2025/

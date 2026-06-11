@@ -1,0 +1,14 @@
+Dataset: old48_validation_set
+Items: 48
+Raters: 7
+Positive majority items: 25
+Negative majority items: 23
+Unanimous items: 29 (0.604)
+Mean agreement share: 0.899
+Mean pairwise agreement: 0.837
+Fleiss' kappa: 0.674
+Agreement vote distribution:
+  4/7: 5
+  5/7: 5
+  6/7: 9
+  7/7: 29

@@ -1,0 +1,13 @@
+model,human_label,model_prediction,n
+Final rule-based definition,0,0,17
+Final rule-based definition,0,1,6
+Final rule-based definition,1,0,6
+Final rule-based definition,1,1,19
+XGBoost baseline model,0,0,16
+XGBoost baseline model,0,1,7
+XGBoost baseline model,1,0,4
+XGBoost baseline model,1,1,21
+Hybrid XGBoost model,0,0,16
+Hybrid XGBoost model,0,1,7
+Hybrid XGBoost model,1,0,3
+Hybrid XGBoost model,1,1,22
