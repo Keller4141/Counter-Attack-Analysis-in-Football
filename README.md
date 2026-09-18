@@ -4,6 +4,36 @@ This project identifies and analyses counter-attacks from synchronized event and
 
 The submitted project includes `Data/derived/`. These files are the outputs used in the report and allow the main results to be inspected or regenerated without rebuilding snapshots and 180 annotation videos.
 
+## Abstract for the final report
+Counter-attacks are an important part of modern football, but they are difficult
+to define consistently from event and tracking data because they depend on both
+tactical context and temporal development. This project develops a reproducible
+framework for detecting and analysing counter-attacks using synchronized event and
+tracking data from DBU national-team matches.
+
+First, a rule-based definition was constructed by combining event-based posses-
+sion regains with tracking-based spatial measurements and distance-scaled thresholds
+for duration, pass count, speed, in-play time, and territorial progression. The defi-
+nition was validated against human annotations and showed reasonable agreement
+with human football judgment. Second, an XGBoost classifier was trained on engi-
+neered event and tracking features to model counter-attack detection from a broader
+candidate pool of regain situations. A hybrid human-guided version was then de-
+veloped by incorporating majority-vote human labels and agreement-based sample
+weights. This hybrid model achieved the strongest agreement with the available
+human-labeled evaluation set, outperforming both the rule-based definition and a
+rule-trained XGBoost baseline.
+
+Finally, the framework was applied to analyse counter-attacking patterns across
+Danish national teams. The results suggest that the Danish men’s senior team did
+not primarily lack counter-attacking volume, but rather final outcome quality, as
+their attacks less often reached dangerous end locations compared with tournament
+benchmarks. The project demonstrates that counter-attacks can be extracted, vali-
+dated, and analysed reproducibly through a combination of rule-based logic, human
+annotation, and machine learning. However, the findings should be interpreted in
+light of limitations related to the small human-labeled evaluation set, event annota-
+tion dependency, and the difficulty of capturing tactical intention from observable
+data alone.
+
 ## Setup
 
 Run commands from the project root. Create a Python environment with:
