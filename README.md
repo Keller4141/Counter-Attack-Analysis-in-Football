@@ -27,6 +27,8 @@ Data/H_EURO2024/
 Data/Q_EURO2025/
 Data/U21_EURO2025/
 
+This project is also able to run with other football data related to the same format as DBU's. For data that is not the exact same, some changes in the code may be implemented.
+
 ## Recommended Execution Order
 
 Because the submitted project already contains the annotation clips, snapshots, and their metadata in `Data/derived/`, the following order reproduces the central model and report results without regenerating visual material.
